@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ineuron/mlrun_prac/mlruns/0/ceb7204cafe64acb973bbcbc87aab72e/artifacts
+end_time: 1702027539631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ceb7204cafe64acb973bbcbc87aab72e
+run_name: dapper-ape-191
+run_uuid: ceb7204cafe64acb973bbcbc87aab72e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702027539537
+status: 3
+tags: []
+user_id: DELL

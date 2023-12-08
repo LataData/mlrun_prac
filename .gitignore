@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+/mlenv
 build/
 develop-eggs/
 dist/

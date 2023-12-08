@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/ineuron/mlrun_prac/mlruns/0/441f27b4cdfb4e0dbf61c1573397771e/artifacts
+end_time: 1702027625868
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 441f27b4cdfb4e0dbf61c1573397771e
+run_name: monumental-hog-548
+run_uuid: 441f27b4cdfb4e0dbf61c1573397771e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702027625805
+status: 3
+tags: []
+user_id: DELL
